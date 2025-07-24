@@ -1,0 +1,21 @@
+{
+  "name": "cp037-converter",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "cp037",
+    "ebcdic",
+    "ascii",
+    "encoding",
+    "decode"
+  ],
+  "author": "srinu konapala",
+  "license": "MIT",
+  "description": "A lightweight Node.js library to convert between ASCII and EBCDIC CP037 (IBM037) encoding formats, supporting legacy system integration.",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
